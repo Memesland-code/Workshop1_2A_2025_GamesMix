@@ -6,7 +6,7 @@
 - [CHANUT Thibault](https://www.linkedin.com/in/thibault-chanut-77035238a/) - Technical Design / Programming
 - [CHAPON Kylian](https://www.linkedin.com/in/kylian-chapon-903924251/) - Technical Design / Programming
 - [GEORGELIN Pierre](https://www.linkedin.com/in/pierre-georgelin-85b020275/) - System Design
-- [Vischi Nicolas](https://www.linkedin.com/in/nicola-vischi-27b385314/) - System Design / Narrative Design
+- [VISCHI Nicolas](https://www.linkedin.com/in/nicola-vischi-27b385314/) - System Design / Narrative Design
 
 ## Game Artists
 - [AUGEUL-MEUNIER Samuel](https://www.linkedin.com/in/samuel-augeul-meunier-0b41a2333/) - Character Art
